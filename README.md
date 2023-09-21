@@ -12,3 +12,5 @@ Inside the callback function for fs.readFile, we check for any errors and, if th
 In the callback function for fs.writeFile, we check for errors again and log a success message if the data was copied successfully.
 
 Make sure to replace 'source.txt' and 'destination.txt' with the actual file paths you want to use. Also, make sure to handle errors appropriately in your production code, as this example demonstrates the basic concept.
+## code link
+https://docs.google.com/document/d/1Eg4sPiVy093PslcTBiPM8H1eQauHzMgSFyUjQo1isjc/edit?usp=sharing
